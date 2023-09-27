@@ -1,0 +1,20 @@
+The Result and Output of the Frailty Project
+
+In stage 1---> we load the raw data, clean, and process the data by removing the duplicated data.
+
+In Stage 2---> Data Visualization: we loaded the cleaned data and took one of the columns from the data set i.e., "Weight" and visualized it with a Histogram graph.
+
+Next, plotted Grip strength vs. Weight for another Visualization.
+
+
+In Stage 3---> Data Analysis:
+
+The t1-test is performed on the original raw dataset. There is no statistical difference between grip strength and frailty.
+
+The output for the data analysis is
+
+"t-statistic: 1.7920318220177764
+p1-value: 0.11089488733773724
+There is no difference in grip strength between groups."
+
+If we perform the dataset using different mean and standard deviations and perform the t-test on the Cleaned dataset. The result shows that there is a statistically significant difference between grip strength and frailty.

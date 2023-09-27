@@ -1,0 +1,15 @@
+Gender Distribution (Bar Chart): This visualization makes it easy to compare the number of male and female students in the dataset. It's useful for understanding the gender balance in the student population
+
+
+Lunch Type (Pie Chart): The pie chart displays the proportion of students with standard and free/reduced lunch. It helps you assess the impact of lunch type on student performance.
+
+Math Scores (Histogram): The histogram shows the distribution of math scores among students. You can identify the central tendency, spread, and potential outliers in math scores.
+
+Reading Scores (Histogram): Similar to the math scores histogram, this chart displays the distribution of reading scores, allowing you to analyze the distribution characteristics of reading performance.
+
+Math vs. Reading Scores (Scatter Plot): This scatter plot helps in visualizing the relationship between math and reading scores, allowing you to identify any potential correlation.
+
+ Math vs Reading Scores vs Writing Score (Box Plot): The box plot helps compare the average scores between male and female students. It allows you to assess whether there are significant differences in average performance between genders.
+
+
+E
